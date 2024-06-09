@@ -1,6 +1,6 @@
 CID_547_Athena_Commando_F_Meteorwoman, 2500
 EID_LetsBegin_Beyond, 2000
-na
+CID_757_Athena_Commando_F_WildCat,  2500
 na
 na
 na
