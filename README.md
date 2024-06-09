@@ -1,5 +1,5 @@
 CID_547_Athena_Commando_F_Meteorwoman, 2500
-EID_LetsBegin_Beyond, 2000
+CID_A_208_Athena_Commando_M_TextilePup_C85OD, 1200
 na
 na
 na
