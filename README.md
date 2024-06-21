@@ -1,5 +1,5 @@
 CID_717_Athena_Commando_F_BlueFlames, 1200
-CID_716_Athena_Commando_M_BlueFlames, 1200
+CID_757_Athena_Commando_F_WildCat, 1200
 Pickaxe_ID_370_BlueFlames, 800
 na
 na
